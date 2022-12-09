@@ -23,5 +23,11 @@
       },
       "outputs": ["scripts/*.js"]
     }
+  },
+  "cordova": {
+    "plugins": {
+    },
+    "platforms": [
+    ]
   }
 }
