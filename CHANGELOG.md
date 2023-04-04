@@ -3,6 +3,9 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.30.0]
+  * Google-Mobile-Ads-SDK updated to ~> 8.13 instead of 9.14.0
+
 # [1.29.0]
   * Google-Mobile-Ads-SDK updated to ~> 9.14.0
 

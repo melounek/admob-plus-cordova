@@ -10,10 +10,9 @@
 
 # [AdMob Plus Cordova](https://admob-plus.github.io)
 
-
 **UPDATES IN THIS FORK**
 
-* Google-Mobile-Ads-SDK updated to ~> 9.14.0
+- Google-Mobile-Ads-SDK updated to ~> 8.13.0 instead of 9.14.0
 
 AdMob Plus Cordova is the successor of [cordova-plugin-admob-free](https://github.com/ratson/cordova-plugin-admob-free), which provides a cleaner API and build with modern tools.
 
